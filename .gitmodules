@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Fzkuji/ai.git
+	branch = main
