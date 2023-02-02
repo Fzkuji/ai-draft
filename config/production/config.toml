@@ -1,1 +1,3 @@
-canonifyURLs = false
+baseURL = 'https://fzkuji.github.io/ai/'
+canonifyURLs = true
+title = 'AI-Centric Computer Learning'
